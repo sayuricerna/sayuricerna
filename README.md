@@ -1,4 +1,6 @@
 # Sayuri Melina
+![alt text](http://placekitten.com/200/300 "kitty")
+
 ## Hi there 👋
 
 ### Software Engineer, Technical Writer & Swimmer.
