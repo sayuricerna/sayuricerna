@@ -1,7 +1,7 @@
 # Sayuri Melina
 ## Hi there 👋
 
-### Software Engineer, Technical Writer & swimmer.
+### Software Engineer, Technical Writer & Swimmer.
 
 There is not even a single day when I'm not learning new things.
 
