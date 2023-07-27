@@ -1,5 +1,4 @@
 # Sayuri Melina
-![alt text]("https://github.com/sayurimelina/sayurimelina/blob/9b30262ae824f82e73f7cd6f0e8862e556ec9943/40%20Hilarious%20Bird%20Posts%20That%20Were%20Too%20Good%20Not%20To%20Share.jpeg")
 
 ## Hi there 👋
 
