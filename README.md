@@ -1,5 +1,5 @@
 # Sayuri Melina
-![alt text]("https://i.pinimg.com/564x/c2/f4/f7/c2f4f74b771370fab53a8077d2ec9bc6.jpg")
+![alt text]("40 Hilarious Bird Posts That Were Too Good Not To Share.jpeg")
 
 ## Hi there 👋
 
