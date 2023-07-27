@@ -1,5 +1,5 @@
 # Sayuri Melina
-![alt text]("https://art.pixilart.com/sr225470b5eeb02.gif")
+![alt text]("https://i.pinimg.com/564x/c2/f4/f7/c2f4f74b771370fab53a8077d2ec9bc6.jpg")
 
 ## Hi there 👋
 
