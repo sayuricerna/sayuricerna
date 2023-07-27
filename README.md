@@ -11,6 +11,6 @@ There is not even a single day when I'm not learning new things.
 [I'm an inline-style link with title](https://www.estudiaabroad.com "Estudia Abroad")
 * 🌱 I’m currently learning C Programming language
 * 👯 I’m looking to collaborate on Python Django Projects
-* 📫 You can reachme on Instagram: sayurielina
+* 📫 You can reachme on Instagram: sayurimelina
 *⚡ Fun fact: Apart from coding I love swimming and playing chess
 
