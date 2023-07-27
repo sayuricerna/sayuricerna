@@ -1,5 +1,5 @@
 # Sayuri Melina
-![alt text](http://placekitten.com/200/300 "kitty")
+![alt text]("https://art.pixilart.com/sr225470b5eeb02.gif")
 
 ## Hi there 👋
 
